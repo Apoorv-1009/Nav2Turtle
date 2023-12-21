@@ -50,4 +50,5 @@ Launch the controller to navigate through battery waypoints:
 ros2 launch group6 robot_controller.launch.py
 ```
 You can customize the waypoint order in the `waypoint_params.yaml` file in the `group6` config folder. Change `aruco_1` to `aruco_0` or as needed. <br>
-Reference link: https://github.com/zeidk
+Reference link: https://github.com/zeidk <br>
+Additonally you can also refer to the pdf provided for better insights
