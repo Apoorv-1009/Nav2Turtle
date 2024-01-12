@@ -2,6 +2,10 @@
 
 This ROS2 project utilizes a TurtleBot3 waffle robot for navigation through predefined battery waypoints. Ensure you have the necessary dependencies installed before running the project.
 
+## Simulations 
+![Nav2Turtle (3)](https://github.com/Apoorv-1009/Nav2Turtle/assets/57452076/b5b2eb8e-18d8-4069-a543-3924cd6bd3f1)
+
+
 ## Dependencies
 
 1. Install TurtleBot3 ROS2 packages:
